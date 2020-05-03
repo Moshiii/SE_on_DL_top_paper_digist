@@ -50,12 +50,17 @@ emperical study on Bengin exampls and adverserial examples and how to generate t
 .. image:: img/emp_study_ae _gen.PNG
    :width: 40pt
 
-
 - White-box Fairness Testing through Adversarial Sampling
 
 - Structure-Invariant Testing for Machine Translation
    https://arxiv.org/pdf/1907.08710.pdf
+   
 
+.. image:: img/trans_inverant_testing.PNG
+   :width: 40pt
+   
+   
+   
 - Automatic Testing and Improvement of Machine Translation
    https://arxiv.org/pdf/1910.02688.pdf
 
