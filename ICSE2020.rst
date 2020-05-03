@@ -73,8 +73,18 @@ emperical study on Bengin exampls and adverserial examples and how to generate t
 
 - Taxonomy of Real Faults in Deep Learning Systems
 
+   https://arxiv.org/pdf/1910.11015.pdf
+
 - Repairing Deep Neural Networks: Fix Patterns and Challenges
+
+http://design.cs.iastate.edu/papers/ICSE-20a/bugrepair.pdf
 
 - Fuzz Testing based Data Augmentation to Improve Robustness of Deep Neural Networks
 
+https://www.comp.nus.edu.sg/~abhik/pdf/ICSE20_Sensei.pdf
+
+
 - An Empirical Study on Program Failures of Deep Learning Jobs
+
+http://hongyujohn.github.io/icse20-main-199.pdf
+
