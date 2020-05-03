@@ -3,6 +3,11 @@ icse 2020
 - Unblind Your Apps: Predicting Natural-Language Labels for Mobile GUI Components by Deep Learning
 https://arxiv.org/pdf/2003.00380.pdf
 
+android app usiabllity for blind ppl is always a challenge. so many apps are having icon buttons without label on it or any substitute infomation to retrive the infomation to help blind ppl understand the button. there are built-in apps that parse the source apk and read the lable loud for blind ppl. but if the button is not giving such information. than it can not be read. this work collected 190000 apps. for apps has label and the icon. it collect both. it throws them into a model and then use the model to generate the label for those apps that have only the icon but not the text lable. not yet sure how they compare their work. 
+
+.. image:: img/android_blind_approach.PNG
+   :width: 40pt
+
 - Software Visualization and Deep Transfer Learning for Effective Software Defect Prediction
 http://yuyue.github.io/res/paper/DTLDP_ICSE2020.pdf
 
