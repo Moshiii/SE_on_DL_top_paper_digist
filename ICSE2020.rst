@@ -1,4 +1,5 @@
 icse 2020
+---------
 
 - Unblind Your Apps: Predicting Natural-Language Labels for Mobile GUI Components by Deep Learning
 https://arxiv.org/pdf/2003.00380.pdf
