@@ -7,18 +7,22 @@ android app usiabllity for blind ppl is always a challenge. so many apps are hav
 
 .. image:: img/android_blind_approach.PNG
    :width: 40pt
-
+-------------
 - Software Visualization and Deep Transfer Learning for Effective Software Defect Prediction
 http://yuyue.github.io/res/paper/DTLDP_ICSE2020.pdf
 
 - Importance-Driven Deep Learning System Testing
 
+-------------
 - ReluDiff: Differential Verification of Deep Neural Networks
 
+-------------
 - DISSECTOR: Input Validation for Deep Learning Applications by Crossing-layer Dissection
 
+-------------
 - Towards Characterizing Adversarial Defects of Deep Learning Software from the Lens of Uncertainty
 
+-------------
 - White-box Fairness Testing through Adversarial Sampling
 
 - Structure-Invariant Testing for Machine Translation
