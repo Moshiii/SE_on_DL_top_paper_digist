@@ -17,6 +17,14 @@ android app usiabllity for blind ppl is always a challenge. so many apps are hav
 
 - Importance-Driven Deep Learning System Testing
    https://arxiv.org/pdf/2002.03433.pdf
+   
+   new hints:
+   DeepXplore
+   DeepGauge
+
+.. image:: img/neuron_importance_scoring.PNG
+   :width: 40pt
+   
 
 - ReluDiff: Differential Verification of Deep Neural Networks
    https://arxiv.org/pdf/2001.03662.pdf
