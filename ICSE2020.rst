@@ -46,7 +46,6 @@ android app usiabllity for blind ppl is always a challenge. so many apps are hav
 
 emperical study on Bengin exampls and adverserial examples and how to generate them
 
-
 .. image:: img/emp_study_ae _gen.PNG
    :width: 40pt
 
@@ -55,6 +54,10 @@ emperical study on Bengin exampls and adverserial examples and how to generate t
 
 - Structure-Invariant Testing for Machine Translation
    https://arxiv.org/pdf/1907.08710.pdf
+   
+.. image:: img/rans_inverant_testing.PNG
+   :width: 40pt
+   
 
 - Automatic Testing and Improvement of Machine Translation
    https://arxiv.org/pdf/1910.02688.pdf
