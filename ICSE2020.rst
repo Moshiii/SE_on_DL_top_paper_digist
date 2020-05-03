@@ -1,9 +1,9 @@
 icse 2020
 
 - Unblind Your Apps: Predicting Natural-Language Labels for Mobile GUI Components by Deep Learning
-	
+https://arxiv.org/pdf/2003.00380.pdf
 - Software Visualization and Deep Transfer Learning for Effective Software Defect Prediction
-
+http://yuyue.github.io/res/paper/DTLDP_ICSE2020.pdf
 - Importance-Driven Deep Learning System Testing
 
 - ReluDiff: Differential Verification of Deep Neural Networks
