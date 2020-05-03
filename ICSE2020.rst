@@ -1,15 +1,16 @@
 icse 2020
-Unblind Your Apps: Predicting Natural-Language Labels for Mobile GUI Components by Deep Learning
+
+- Unblind Your Apps: Predicting Natural-Language Labels for Mobile GUI Components by Deep Learning
 	
-Software Visualization and Deep Transfer Learning for Effective Software Defect Prediction
+- Software Visualization and Deep Transfer Learning for Effective Software Defect Prediction
 
-Importance-Driven Deep Learning System Testing
+- Importance-Driven Deep Learning System Testing
 
-ReluDiff: Differential Verification of Deep Neural Networks
+- ReluDiff: Differential Verification of Deep Neural Networks
 
-DISSECTOR: Input Validation for Deep Learning Applications by Crossing-layer Dissection
+- DISSECTOR: Input Validation for Deep Learning Applications by Crossing-layer Dissection
 
-Towards Characterizing Adversarial Defects of Deep Learning Software from the Lens of Uncertainty
+- Towards Characterizing Adversarial Defects of Deep Learning Software from the Lens of Uncertainty
 
 White-box Fairness Testing through Adversarial Sampling
 
