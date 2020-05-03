@@ -12,18 +12,18 @@ icse 2020
 
 - Towards Characterizing Adversarial Defects of Deep Learning Software from the Lens of Uncertainty
 
-White-box Fairness Testing through Adversarial Sampling
+- White-box Fairness Testing through Adversarial Sampling
 
-Structure-Invariant Testing for Machine Translation
+- Structure-Invariant Testing for Machine Translation
 
-Automatic Testing and Improvement of Machine Translation
+- Automatic Testing and Improvement of Machine Translation
 
-TRADER: Trace Divergence Analysis and Embedding Regulation for Debugging Recurrent Neural Networks
+- TRADER: Trace Divergence Analysis and Embedding Regulation for Debugging Recurrent Neural Networks
 
-Taxonomy of Real Faults in Deep Learning Systems
+- Taxonomy of Real Faults in Deep Learning Systems
 
-Repairing Deep Neural Networks: Fix Patterns and Challenges
+- Repairing Deep Neural Networks: Fix Patterns and Challenges
 
-Fuzz Testing based Data Augmentation to Improve Robustness of Deep Neural Networks
+- Fuzz Testing based Data Augmentation to Improve Robustness of Deep Neural Networks
 
-An Empirical Study on Program Failures of Deep Learning Jobs
+- An Empirical Study on Program Failures of Deep Learning Jobs
