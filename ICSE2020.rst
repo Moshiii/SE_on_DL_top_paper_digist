@@ -47,7 +47,7 @@ android app usiabllity for blind ppl is always a challenge. so many apps are hav
 emperical study on Bengin exampls and adverserial examples and how to generate them
 
 
-.. image:: img/diff_net.PNG
+.. image:: img/emp_study_ae _gen.PNG
    :width: 40pt
 
 - White-box Fairness Testing through Adversarial Sampling
