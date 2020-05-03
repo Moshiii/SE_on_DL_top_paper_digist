@@ -64,6 +64,11 @@ emperical study on Bengin exampls and adverserial examples and how to generate t
 - Automatic Testing and Improvement of Machine Translation
    https://arxiv.org/pdf/1910.02688.pdf
 
+.. image:: img/translation_fairness.PNG
+   :width: 40pt
+   
+
+
 - TRADER: Trace Divergence Analysis and Embedding Regulation for Debugging Recurrent Neural Networks
 
 - Taxonomy of Real Faults in Deep Learning Systems
