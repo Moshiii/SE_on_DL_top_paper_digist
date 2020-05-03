@@ -13,19 +13,24 @@ android app usiabllity for blind ppl is always a challenge. so many apps are hav
 http://yuyue.github.io/res/paper/DTLDP_ICSE2020.pdf
 
 - Importance-Driven Deep Learning System Testing
+https://arxiv.org/pdf/2002.03433.pdf
 
 - ReluDiff: Differential Verification of Deep Neural Networks
+https://arxiv.org/pdf/2001.03662.pdf
 
 - DISSECTOR: Input Validation for Deep Learning Applications by Crossing-layer Dissection
 
 
 - Towards Characterizing Adversarial Defects of Deep Learning Software from the Lens of Uncertainty
+https://arxiv.org/pdf/2004.11573.pdf
 
 - White-box Fairness Testing through Adversarial Sampling
 
 - Structure-Invariant Testing for Machine Translation
+https://arxiv.org/pdf/1907.08710.pdf
 
 - Automatic Testing and Improvement of Machine Translation
+https://arxiv.org/pdf/1910.02688.pdf
 
 - TRADER: Trace Divergence Analysis and Embedding Regulation for Debugging Recurrent Neural Networks
 
