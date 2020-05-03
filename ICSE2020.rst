@@ -31,19 +31,23 @@ android app usiabllity for blind ppl is always a challenge. so many apps are hav
    
    new hints:
    ReluVal
-   DeepPoly 
-   
-.. image:: img/diff_net.PNG
-   :width: 40pt
+   DeepPoly   
    
  compare the diff between two networks. dont really understand whats in it
  
+.. image:: img/diff_net.PNG
+   :width: 40pt
 
 - DISSECTOR: Input Validation for Deep Learning Applications by Crossing-layer Dissection
 
 
 - Towards Characterizing Adversarial Defects of Deep Learning Software from the Lens of Uncertainty
    https://arxiv.org/pdf/2004.11573.pdf
+
+emperical study on Bengin exampls and adverserial examples and how to generate them
+
+.. image:: img/emp_study_ae _gen.PNG
+   :width: 40pt
 
 - White-box Fairness Testing through Adversarial Sampling
 
