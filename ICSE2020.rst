@@ -36,6 +36,7 @@ android app usiabllity for blind ppl is always a challenge. so many apps are hav
 .. image:: img/diff_net.PNG
    :width: 40pt
    
+   
  compare the diff between two networks. dont really understand whats in it
  
 
