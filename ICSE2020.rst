@@ -1,24 +1,39 @@
 icse 2020
+---------
 
 - Unblind Your Apps: Predicting Natural-Language Labels for Mobile GUI Components by Deep Learning
-https://arxiv.org/pdf/2003.00380.pdf
+   https://arxiv.org/pdf/2003.00380.pdf
+
+android app usiabllity for blind ppl is always a challenge. so many apps are having icon buttons without label on it or any substitute infomation to retrive the infomation to help blind ppl understand the button. there are built-in apps that parse the source apk and read the lable loud for blind ppl. but if the button is not giving such information. than it can not be read. this work collected 190000 apps. for apps has label and the icon. it collect both. it throws them into a model and then use the model to generate the label for those apps that have only the icon but not the text lable. not yet sure how they compare their work. 
+
+.. image:: img/android_blind_approach.PNG
+   :width: 40pt
 
 - Software Visualization and Deep Transfer Learning for Effective Software Defect Prediction
-http://yuyue.github.io/res/paper/DTLDP_ICSE2020.pdf
+   http://yuyue.github.io/res/paper/DTLDP_ICSE2020.pdf
+   
+.. image:: img/defect_prediction_code_to_img.PNG
+   :width: 40pt
 
 - Importance-Driven Deep Learning System Testing
+   https://arxiv.org/pdf/2002.03433.pdf
 
 - ReluDiff: Differential Verification of Deep Neural Networks
+   https://arxiv.org/pdf/2001.03662.pdf
 
 - DISSECTOR: Input Validation for Deep Learning Applications by Crossing-layer Dissection
 
+
 - Towards Characterizing Adversarial Defects of Deep Learning Software from the Lens of Uncertainty
+   https://arxiv.org/pdf/2004.11573.pdf
 
 - White-box Fairness Testing through Adversarial Sampling
 
 - Structure-Invariant Testing for Machine Translation
+   https://arxiv.org/pdf/1907.08710.pdf
 
 - Automatic Testing and Improvement of Machine Translation
+   https://arxiv.org/pdf/1910.02688.pdf
 
 - TRADER: Trace Divergence Analysis and Embedding Regulation for Debugging Recurrent Neural Networks
 
