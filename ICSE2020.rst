@@ -67,24 +67,34 @@ emperical study on Bengin exampls and adverserial examples and how to generate t
 .. image:: img/translation_fairness.PNG
    :width: 40pt
    
-
-
 - TRADER: Trace Divergence Analysis and Embedding Regulation for Debugging Recurrent Neural Networks
 
 - Taxonomy of Real Faults in Deep Learning Systems
 
    https://arxiv.org/pdf/1910.11015.pdf
+   
+.. image:: img/taxonomy_dl_fault.PNG
+   :width: 40pt
 
 - Repairing Deep Neural Networks: Fix Patterns and Challenges
 
    http://design.cs.iastate.edu/papers/ICSE-20a/bugrepair.pdf
+   
+.. image:: img/type_dl_bug.PNG
+   :width: 40pt
 
 - Fuzz Testing based Data Augmentation to Improve Robustness of Deep Neural Networks
 
    https://www.comp.nus.edu.sg/~abhik/pdf/ICSE20_Sensei.pdf
+   
+.. image:: img/fuzz_train_dl_robustness.PNG
+   :width: 40pt
 
 
 - An Empirical Study on Program Failures of Deep Learning Jobs
 
    http://hongyujohn.github.io/icse20-main-199.pdf
 
+
+.. image:: img/dl_job_fails.PNG
+   :width: 40pt
