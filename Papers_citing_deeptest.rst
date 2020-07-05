@@ -14,7 +14,8 @@ higher neuron coverage on average than the same number of
 randomly picked inputs and adversarial inputs
 
 workflow:
-
+.. image:: img/deepexplore.PNG
+   :width: 40pt
 
 
 DeepGauge: multi-granularity testing criteria for deep learning systems
