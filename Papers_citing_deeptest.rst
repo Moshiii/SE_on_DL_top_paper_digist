@@ -1,4 +1,4 @@
-DeepXplore: Automated Whitebox Testing of Deep Learning Systems
+                  DeepXplore: Automated Whitebox Testing of Deep Learning Systems
 Kexin et al 2017
 
 
@@ -56,8 +56,16 @@ Jingyi  et al 2019 icse
 
 
 Symbolic Execution for Attribution and Attack Synthesis in Neural Networks
+Divya et al.  2019 ICSE
+
+   DeepCheck implements techniques for lightweight symbolic
+   analysis of DNNs and applies them in the context of image classification to address two challenging problems: 1) identification
+   of important pixels (for attribution and adversarial generation);
+   and 2) creation of adversarial attacks. 
 
 Formal Security Analysis of Neural Networks using Symbolic Intervals
+   
+
 
 Efficient Formal Safety Analysis of Neural Networks
 
