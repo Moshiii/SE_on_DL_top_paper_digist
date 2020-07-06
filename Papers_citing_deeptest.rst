@@ -46,13 +46,13 @@ Adversarial Sample Detection for Deep Neural Network through Model Mutation Test
 Jingyi  et al 2019 icse
 
    In this work, we provide a complementary perspective
-and propose an approach for detecting adversarial samples at
-runtime. The idea is that, given an arbitrary input sample to
-a DNN, to decide at runtime whether it is likely to be an
-adversarial sample or not. If it is, we raise an alarm and report
-that the sample is ‘suspicious’ with certain confidence. Once
-detected, it can be rejected or checked depending on different
-applications. 
+   and propose an approach for detecting adversarial samples at
+   runtime. The idea is that, given an arbitrary input sample to
+   a DNN, to decide at runtime whether it is likely to be an
+   adversarial sample or not. If it is, we raise an alarm and report
+   that the sample is ‘suspicious’ with certain confidence. Once
+   detected, it can be rejected or checked depending on different
+   applications. 
 
 
 Symbolic Execution for Attribution and Attack Synthesis in Neural Networks
