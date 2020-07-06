@@ -21,6 +21,16 @@ workflow:
 
 DeepGauge: multi-granularity testing criteria for deep learning systems
 
+whitebox
+dataset:
+MNIST Imagenet
+
+idea:
+ 5 types of coverage metrics:
+ KMNC NBC SNAC TKNC TKNP
+
+Houdini 
+
 Chauffeurnet: Learning to drive by imitating the best and synthesizing the worst
 
 DeepConcolic: Testing and Debugging Deep Neural Networks
