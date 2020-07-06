@@ -1,4 +1,4 @@
-                  DeepXplore: Automated Whitebox Testing of Deep Learning Systems
+DeepXplore: Automated Whitebox Testing of Deep Learning Systems
 Kexin et al 2017
 
 
@@ -115,18 +115,35 @@ Jinhan et al 2019
    Adequacy for Deep Learning Systems (SADL), which is based
    on the behaviour of DL systems with respect to their training
    data.
-
-
-Autonomous cars: Research results, issues, and future challenges
+   
+--Autonomous Cars: Research Results, Issues, and Future Challenges
 
 Simulation-based adversarial test generation for autonomous vehicles with machine learning components
 
 Strike (with) a pose: Neural networks are easily fooled by strange poses of familiar objects
-
-## Deeproad: Gan-based metamorphic autonomous driving system testing
 
 Identifying implementation bugs in machine learning based image classifiers using metamorphic testing
 
 Towards practical verification of machine learning: The case of computer vision systems
 
 Dlfuzz: Differential fuzzing testing of deep learning systems
+
+Testing Untestable Neural Machine Translation: An Industrial Case
+
+CRADLE: Cross-Backend Validation to Detect and Localize Bugs in Deep Learning Libraries
+
+A Quantitative Analysis Framework for Recurrent Neural Network
+Xiaoning et al 2019
+
+  In this paper, we
+  propose a quantitative analysis framework — DeepStellar—
+  to pave the way for effective quality and security analysis of
+  software systems powered by RNNs.
+
+Testing DNN Image Classifiers for Confusion & Bias Errors
+Yuchi et al 2019
+
+  We developed a testing technique to automatically detect classbased confusion and bias errors in DNN-driven image classification
+  software. 
+
+AsFault: Testing Self-Driving Car Software Using Search-Based Procedural Content Generation
