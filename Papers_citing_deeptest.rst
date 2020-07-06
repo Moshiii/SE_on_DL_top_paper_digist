@@ -1,4 +1,6 @@
 DeepXplore: Automated Whitebox Testing of Deep Learning Systems
+Kexin et al 2017
+
 
 white box testing
 
@@ -20,7 +22,7 @@ workflow:
 
 
 DeepGauge: multi-granularity testing criteria for deep learning systems
-
+Lei et al . 2018
 whitebox
 dataset:
 MNIST Imagenet
@@ -30,12 +32,28 @@ idea:
  KMNC NBC SNAC TKNC TKNP
 
 Houdini 
+NIPS 2017
 
-Chauffeurnet: Learning to drive by imitating the best and synthesizing the worst
+
+-- Chauffeurnet: Learning to drive by imitating the best and synthesizing the worst
 
 DeepConcolic: Testing and Debugging Deep Neural Networks
+Youcheng et al 2019
+
+   DeepConcolic is the first tool that implements a concolic testing technique for DNNs
 
 Adversarial Sample Detection for Deep Neural Network through Model Mutation Testing
+Jingyi  et al 2019 icse
+
+   In this work, we provide a complementary perspective
+and propose an approach for detecting adversarial samples at
+runtime. The idea is that, given an arbitrary input sample to
+a DNN, to decide at runtime whether it is likely to be an
+adversarial sample or not. If it is, we raise an alarm and report
+that the sample is ‘suspicious’ with certain confidence. Once
+detected, it can be rejected or checked depending on different
+applications. 
+
 
 Symbolic Execution for Attribution and Attack Synthesis in Neural Networks
 
