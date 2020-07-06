@@ -23,6 +23,12 @@ DeepGauge: multi-granularity testing criteria for deep learning systems
 
 Chauffeurnet: Learning to drive by imitating the best and synthesizing the worst
 
+DeepConcolic: Testing and Debugging Deep Neural Networks
+
+Adversarial Sample Detection for Deep Neural Network through Model Mutation Testing
+
+Symbolic Execution for Attribution and Attack Synthesis in Neural Networks
+
 Formal Security Analysis of Neural Networks using Symbolic Intervals
 
 Efficient Formal Safety Analysis of Neural Networks
