@@ -64,22 +64,57 @@ Divya et al.  2019 ICSE
    and 2) creation of adversarial attacks. 
 
 Formal Security Analysis of Neural Networks using Symbolic Intervals
-   
+Shiqi et al 2018 usenix
 
+   In this paper, we present a new direction for formally
+   checking security properties of DNNs without using SMT
+   solvers. Instead, we leverage interval arithmetic to compute rigorous bounds on the DNN outputs. 
 
 Efficient Formal Safety Analysis of Neural Networks
+Shiqi ET AL 2018 NIPS
+   
+   In this paper, we present a new efficient approach for rigorously checking
+   different safety properties of neural networks that significantly outperforms existing
+   approaches by multiple orders of magnitude.
 
-Concolic testing for deep neural networks
 
 Deepmutation: Mutation testing of deep learning systems
+lei et al. 2018
+   In this paper, we
+   propose a mutation testing framework specialized for DL systems
+   to measure the quality of test data.
+
 
 Testing deep neural networks
-
+ Youcheng et al 2019
+ 
+   In this paper, inspired by the MC/DC coverage criterion, we
+   propose a family of four novel test criteria that are tailored to structural features
+   of DNNs and their semantics.
+ 
+ 
 DeepRoad: GAN-based metamorphic testing and input validation framework for autonomous driving systems
+Mengshi et al 2018
+
+   In this paper, we propose DeepRoad, an unsupervised DNN-based
+   framework for automatically testing the consistency of DNN-based
+   autonomous driving systems and online validation. 
 
 Tensorfuzz: Debugging neural networks with coverage-guided fuzzing
+Augustus et al 2019 
+
+   We introduce testing techniques for neural networks that
+   can discover errors occurring only for rare inputs. Specifically, we develop coverage-guided fuzzing (CGF)
+   methods for neural networks.
 
 Guiding deep learning system testing using surprise adequacy
+Jinhan et al 2019
+
+   We propose a novel test
+   adequacy criterion for testing of DL systems, called Surprise
+   Adequacy for Deep Learning Systems (SADL), which is based
+   on the behaviour of DL systems with respect to their training
+   data.
 
 Autonomous cars: Research results, issues, and future challenges
 
