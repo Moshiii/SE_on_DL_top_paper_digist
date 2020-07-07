@@ -116,21 +116,75 @@ Jinhan et al 2019
    on the behaviour of DL systems with respect to their training
    data.
    
---Autonomous Cars: Research Results, Issues, and Future Challenges
-
 Simulation-based adversarial test generation for autonomous vehicles with machine learning components
+Cumhur et al 2018
+
+   We present a testing framework that
+   is compatible with test case generation and automatic falsification methods, which are used to evaluate cyber-physical systems. We demonstrate how the framework can be used to evaluate closed-loop
+   properties of an autonomous driving system model that includes the ML components, all within a virtual environment. 
+
+A Quantitative Analysis Framework for Recurrent Neural Network
+Xiaoning et al 2019
+
+   In this paper, we
+   propose a quantitative analysis framework — DeepStellar—
+   to pave the way for effective quality and security analysis of
+   software systems powered by RNNs. DeepStellar is generic to
+   handle various RNN architectures, including LSTM and GRU,
+   scalable to work on industrial-grade RNN models, and extensible
+   to develop customized analyzers and tools.
 
 Strike (with) a pose: Neural networks are easily fooled by strange poses of familiar objects
+Michael et al 2019
+
+   In this paper, we present a framework for discovering DNN
+   failures that harnesses 3D renderers and 3D models.
+
 
 Identifying implementation bugs in machine learning based image classifiers using metamorphic testing
+Anurag et al 2018
+
+   In this work, we present an articulation of
+   the challenges in testing ML based applications. We then present
+   our solution approach, based on the concept of Metamorphic Testing, which aims to identify implementation bugs in ML based image
+   classifiers. We have developed metamorphic relations for an application based on Support Vector Machine and a Deep Learning based
+   application
 
 Towards practical verification of machine learning: The case of computer vision systems
+Kexin et al 2017
+
+   In this paper, we propose a generic
+   framework for evaluating security and robustness of ML systems
+   using different real-world safety properties.
 
 Dlfuzz: Differential fuzzing testing of deep learning systems
+Jianmin et al 2018
+
+   In this paper, we propose DLFuzz, the first differential fuzzing
+   testing framework to guide DL systems exposing incorrect behaviors.
+
+
 
 Testing Untestable Neural Machine Translation: An Industrial Case
+Wujie et al 2018
+
+   in this paper, we propose a new approach for
+   automatically identifying translation failures, without requiring
+   reference translations for a translation task; our approach can
+   directly serve as a test oracle for in-vivo testing.
+
 
 CRADLE: Cross-Backend Validation to Detect and Localize Bugs in Deep Learning Libraries
+Hung et al 2019
+
+   Thus, we propose CRADLE, a new approach that focuses on
+   finding and localizing bugs in DL software libraries. CRADLE (1)
+   performs cross-implementation inconsistency checking to detect
+   bugs in DL libraries, and (2) leverages anomaly propagation
+   tracking and analysis to localize faulty functions in DL libraries
+   that cause the bugs. We evaluate CRADLE on three libraries
+   (TensorFlow, CNTK, and Theano)
+
 
 A Quantitative Analysis Framework for Recurrent Neural Network
 Xiaoning et al 2019
@@ -147,3 +201,11 @@ Yuchi et al 2019
   software. 
 
 AsFault: Testing Self-Driving Car Software Using Search-Based Procedural Content Generation
+Alessio et al. 2019 
+
+   we developed ASFAULT, a tool for automatically generating
+   virtual tests for systematically testing self-driving car software.
+   We demonstrate ASFAULT by testing the lane keeping feature
+   of an artificial intelligence-based self-driving car software, for
+   which ASFAULT generates scenarios that cause it to drive off
+   the road.
