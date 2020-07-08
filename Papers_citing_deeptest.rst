@@ -36,6 +36,13 @@ workflow:
    DL systems that both trigger many differential behaviors and
    achieve high neuron coverage can be represented as a joint
    optimization problem and solved efficiently using gradientbased search techniques.
+@inproceedings{pei2017deepxplore,
+  title={Deepxplore: Automated whitebox testing of deep learning systems},
+  author={Pei, Kexin and Cao, Yinzhi and Yang, Junfeng and Jana, Suman},
+  booktitle={proceedings of the 26th Symposium on Operating Systems Principles},
+  pages={1--18},
+  year={2017}
+}
 
 
 
