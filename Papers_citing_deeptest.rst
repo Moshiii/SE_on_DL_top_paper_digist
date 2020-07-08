@@ -62,24 +62,52 @@ for DL systems, which aims at rendering a multi-faceted portrayal
 of the testbed. The in-depth evaluation of our proposed testing
 criteria is demonstrated on two well-known datasets, five DL systems, and with four state-of-the-art adversarial attack techniques
 against DL.
+@inproceedings{ma2018deepgauge,
+  title={Deepgauge: Multi-granularity testing criteria for deep learning systems},
+  author={Ma, Lei and Juefei-Xu, Felix and Zhang, Fuyuan and Sun, Jiyuan and Xue, Minhui and Li, Bo and Chen, Chunyang and Su, Ting and Li, Li and Liu, Yang and others},
+  booktitle={Proceedings of the 33rd ACM/IEEE International Conference on Automated Software Engineering},
+  pages={120--131},
+  year={2018}
+}
 
-Houdini 
+
+Houdini: Fooling deep structured prediction models
 Moustapha et al. 2017
    We introduce a novel flexible approach named Houdini for
    generating adversarial examples specifically tailored for the final performance
    measure of the task considered, be it combinatorial and non-decomposable.
-
+@article{cisse2017houdini,
+  title={Houdini: Fooling deep structured prediction models},
+  author={Cisse, Moustapha and Adi, Yossi and Neverova, Natalia and Keshet, Joseph},
+  journal={arXiv preprint arXiv:1707.05373},
+  year={2017}
+}
 
 DeepConcolic: Testing and Debugging Deep Neural Networks
 Youcheng et al 2019
 
    DeepConcolic is the first tool that implements a concolic testing technique for DNNs
+@inproceedings{sun2019deepconcolic,
+  title={DeepConcolic: testing and debugging deep neural networks},
+  author={Sun, Youcheng and Huang, Xiaowei and Kroening, Daniel and Sharp, James and Hill, Matthew and Ashmore, Rob},
+  booktitle={2019 IEEE/ACM 41st International Conference on Software Engineering: Companion Proceedings (ICSE-Companion)},
+  pages={111--114},
+  year={2019},
+  organization={IEEE}
+}
+
+
 
 Adversarial Sample Detection for Deep Neural Network through Model Mutation Testing
 Wang  et al 2019 icse
-
-Wang et al. designed an approach for adverserial input detection and blocking at runtime 
-
+@inproceedings{wang2019adversarial,
+  title={Adversarial sample detection for deep neural network through model mutation testing},
+  author={Wang, Jingyi and Dong, Guoliang and Sun, Jun and Wang, Xinyu and Zhang, Peixin},
+  booktitle={2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE)},
+  pages={1245--1256},
+  year={2019},
+  organization={IEEE}
+}
 
 Symbolic Execution for Attribution and Attack Synthesis in Neural Networks
  Gopinath et al.  2019 ICSE
@@ -89,6 +117,15 @@ Symbolic Execution for Attribution and Attack Synthesis in Neural Networks
    identification
    of important pixels (for attribution and adversarial generation);
    and 2) creation of adversarial attacks. 
+@inproceedings{gopinath2019symbolic,
+  title={Symbolic execution for attribution and attack synthesis in neural networks},
+  author={Gopinath, Divya and Pasareanu, Corina S and Wang, Kaiyuan and Zhang, Mengshi and Khurshid, Sarfraz},
+  booktitle={2019 IEEE/ACM 41st International Conference on Software Engineering: Companion Proceedings (ICSE-Companion)},
+  pages={282--283},
+  year={2019},
+  organization={IEEE}
+}
+
 
 Formal Security Analysis of Neural Networks using Symbolic Intervals
 Shiqi et al 2018 usenix
@@ -96,6 +133,14 @@ Shiqi et al 2018 usenix
    In this paper, we present a new direction for formally
    checking security properties of DNNs without using SMT
    solvers. Instead, we leverage interval arithmetic to compute rigorous bounds on the DNN outputs. 
+@inproceedings{wang2018formal,
+  title={Formal security analysis of neural networks using symbolic intervals},
+  author={Wang, Shiqi and Pei, Kexin and Whitehouse, Justin and Yang, Junfeng and Jana, Suman},
+  booktitle={27th $\{$USENIX$\}$ Security Symposium ($\{$USENIX$\}$ Security 18)},
+  pages={1599--1614},
+  year={2018}
+}
+
 
 Efficient Formal Safety Analysis of Neural Networks
 Shiqi ET AL 2018 NIPS
@@ -103,13 +148,28 @@ Shiqi ET AL 2018 NIPS
    In this paper, we present a new efficient approach for rigorously checking
    different safety properties of neural networks that significantly outperforms existing
    approaches by multiple orders of magnitude.
+@inproceedings{wang2018efficient,
+  title={Efficient formal safety analysis of neural networks},
+  author={Wang, Shiqi and Pei, Kexin and Whitehouse, Justin and Yang, Junfeng and Jana, Suman},
+  booktitle={Advances in Neural Information Processing Systems},
+  pages={6367--6377},
+  year={2018}
+}
+
 
 Deepmutation: Mutation testing of deep learning systems
 lei et al. 2018
    In this paper, we
    propose a mutation testing framework specialized for DL systems
    to measure the quality of test data.
-
+@inproceedings{ma2018deepmutation,
+  title={Deepmutation: Mutation testing of deep learning systems},
+  author={Ma, Lei and Zhang, Fuyuan and Sun, Jiyuan and Xue, Minhui and Li, Bo and Juefei-Xu, Felix and Xie, Chao and Li, Li and Liu, Yang and Zhao, Jianjun and others},
+  booktitle={2018 IEEE 29th International Symposium on Software Reliability Engineering (ISSRE)},
+  pages={100--111},
+  year={2018},
+  organization={IEEE}
+}
 
 Testing deep neural networks
  Sun et al 2019
@@ -117,7 +177,12 @@ Testing deep neural networks
    In this paper, inspired by the MC/DC coverage criterion, we
    propose a family of four novel test criteria that are tailored to structural features
    of DNNs and their semantics.
- 
+ @article{sun2018testing,
+  title={Testing deep neural networks},
+  author={Sun, Youcheng and Huang, Xiaowei and Kroening, Daniel and Sharp, James and Hill, Matthew and Ashmore, Rob},
+  journal={arXiv preprint arXiv:1803.04792},
+  year={2018}
+}
  
 DeepRoad: GAN-based metamorphic testing and input validation framework for autonomous driving systems
 Zhang et al 2018
@@ -125,6 +190,16 @@ Zhang et al 2018
    In this paper, we propose DeepRoad, an unsupervised DNN-based
    framework for automatically testing the consistency of DNN-based
    autonomous driving systems and online validation. 
+@inproceedings{zhang2018deeproad,
+  title={DeepRoad: GAN-based metamorphic testing and input validation framework for autonomous driving systems},
+  author={Zhang, Mengshi and Zhang, Yuqun and Zhang, Lingming and Liu, Cong and Khurshid, Sarfraz},
+  booktitle={2018 33rd IEEE/ACM International Conference on Automated Software Engineering (ASE)},
+  pages={132--142},
+  year={2018},
+  organization={IEEE}
+}
+
+
 
 Tensorfuzz: Debugging neural networks with coverage-guided fuzzing
 Odena et al 2019 
@@ -132,6 +207,15 @@ Odena et al 2019
    We introduce testing techniques for neural networks that
    can discover errors occurring only for rare inputs. Specifically, we develop coverage-guided fuzzing (CGF)
    methods for neural networks.
+@inproceedings{odena2019tensorfuzz,
+  title={Tensorfuzz: Debugging neural networks with coverage-guided fuzzing},
+  author={Odena, Augustus and Olsson, Catherine and Andersen, David and Goodfellow, Ian},
+  booktitle={International Conference on Machine Learning},
+  pages={4901--4911},
+  year={2019}
+}
+
+
 
 Guiding deep learning system testing using surprise adequacy
 Kim et al 2019
@@ -141,6 +225,18 @@ Kim et al 2019
    Adequacy for Deep Learning Systems (SADL), which is based
    on the behaviour of DL systems with respect to their training
    data.
+@inproceedings{kim2019guiding,
+  title={Guiding deep learning system testing using surprise adequacy},
+  author={Kim, Jinhan and Feldt, Robert and Yoo, Shin},
+  booktitle={2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE)},
+  pages={1039--1049},
+  year={2019},
+  organization={IEEE}
+}
+
+
+
+
    
 Simulation-based adversarial test generation for autonomous vehicles with machine learning components
 Cumhur et al 2018
@@ -148,6 +244,17 @@ Cumhur et al 2018
    We present a testing framework that
    is compatible with test case generation and automatic falsification methods, which are used to evaluate cyber-physical systems. We demonstrate how the framework can be used to evaluate closed-loop
    properties of an autonomous driving system model that includes the ML components, all within a virtual environment. 
+@inproceedings{tuncali2018simulation,
+  title={Simulation-based adversarial test generation for autonomous vehicles with machine learning components},
+  author={Tuncali, Cumhur Erkan and Fainekos, Georgios and Ito, Hisahiro and Kapinski, James},
+  booktitle={2018 IEEE Intelligent Vehicles Symposium (IV)},
+  pages={1555--1562},
+  year={2018},
+  organization={IEEE}
+}
+
+
+
 
 A Quantitative Analysis Framework for Recurrent Neural Network
 Du et al 2019
@@ -159,12 +266,33 @@ Du et al 2019
    handle various RNN architectures, including LSTM and GRU,
    scalable to work on industrial-grade RNN models, and extensible
    to develop customized analyzers and tools.
+@inproceedings{du2019quantitative,
+  title={A quantitative analysis framework for recurrent neural network},
+  author={Du, Xiaoning and Xie, Xiaofei and Li, Yi and Ma, Lei and Liu, Yang and Zhao, Jianjun},
+  booktitle={2019 34th IEEE/ACM International Conference on Automated Software Engineering (ASE)},
+  pages={1062--1065},
+  year={2019},
+  organization={IEEE}
+}
+
+
+
+
 
 Strike (with) a pose: Neural networks are easily fooled by strange poses of familiar objects
 Alcorn et al 2019
 
    In this paper, we present a framework for discovering DNN
    failures that harnesses 3D renderers and 3D models.
+@inproceedings{alcorn2019strike,
+  title={Strike (with) a pose: Neural networks are easily fooled by strange poses of familiar objects},
+  author={Alcorn, Michael A and Li, Qi and Gong, Zhitao and Wang, Chengfei and Mai, Long and Ku, Wei-Shinn and Nguyen, Anh},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={4845--4854},
+  year={2019}
+}
+
+
 
 Towards practical verification of machine learning: The case of computer vision systems
 Pei et al 2017
@@ -172,12 +300,33 @@ Pei et al 2017
    In this paper, we propose a generic
    framework for evaluating security and robustness of ML systems
    using different real-world safety properties.
+@article{pei2017towards,
+  title={Towards practical verification of machine learning: The case of computer vision systems},
+  author={Pei, Kexin and Cao, Yinzhi and Yang, Junfeng and Jana, Suman},
+  journal={arXiv preprint arXiv:1712.01785},
+  year={2017}
+}
+
+
+
 
 Dlfuzz: Differential fuzzing testing of deep learning systems
 Guo et al 2018
 
    In this paper, we propose DLFuzz, the first differential fuzzing
    testing framework to guide DL systems exposing incorrect behaviors.
+@inproceedings{guo2018dlfuzz,
+  title={Dlfuzz: Differential fuzzing testing of deep learning systems},
+  author={Guo, Jianmin and Jiang, Yu and Zhao, Yue and Chen, Quan and Sun, Jiaguang},
+  booktitle={Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering},
+  pages={739--743},
+  year={2018}
+}
+
+
+
+
+
 
 CRADLE: Cross-Backend Validation to Detect and Localize Bugs in Deep Learning Libraries
 Pham et al 2019
@@ -189,7 +338,14 @@ Pham et al 2019
    tracking and analysis to localize faulty functions in DL libraries
    that cause the bugs. We evaluate CRADLE on three libraries
    (TensorFlow, CNTK, and Theano)
-
+@inproceedings{pham2019cradle,
+  title={CRADLE: cross-backend validation to detect and localize bugs in deep learning libraries},
+  author={Pham, Hung Viet and Lutellier, Thibaud and Qi, Weizhen and Tan, Lin},
+  booktitle={2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE)},
+  pages={1027--1038},
+  year={2019},
+  organization={IEEE}
+}
 
 
 Testing DNN Image Classifiers for Confusion & Bias Errors
@@ -197,6 +353,16 @@ Tian et al 2019
 
   We developed a testing technique to automatically detect classbased confusion and bias errors in DNN-driven image classification
   software. 
+@article{tian2019testing,
+  title={Testing DNN Image Classifiers for Confusion \& Bias Errors},
+  author={Tian, Yuchi and Zhong, Ziyuan and Ordonez, Vicente and Kaiser, Gail and Ray, Baishakhi},
+  journal={arXiv preprint arXiv:1905.07831},
+  year={2019}
+}
+
+
+
+
 
 AsFault: Testing Self-Driving Car Software Using Search-Based Procedural Content Generation
 Gambi et al. 2019 
@@ -207,7 +373,14 @@ Gambi et al. 2019
    of an artificial intelligence-based self-driving car software, for
    which ASFAULT generates scenarios that cause it to drive off
    the road.
-
+@inproceedings{gambi2019asfault,
+  title={AsFault: Testing self-driving car software using search-based procedural content generation},
+  author={Gambi, Alessio and M{\"u}ller, Marc and Fraser, Gordon},
+  booktitle={2019 IEEE/ACM 41st International Conference on Software Engineering: Companion Proceedings (ICSE-Companion)},
+  pages={27--30},
+  year={2019},
+  organization={IEEE}
+}
 
 
 
