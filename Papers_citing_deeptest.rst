@@ -1,13 +1,22 @@
 There are alreay many exisiting works on adverserial testing against deep learning models. 
 
-Pei et al. 2017 presented a whitebox testing framework for DL system 
-Lei et al. 2018
+DeepTest: Automated Testing of Deep-Neural-Network-driven Autonomous Cars
+Tian et al. (2018) proposed Deeptest for faileaure detection on DNN-based Autonomous driving system.
+   In this paper, we design, implement, and evaluate DeepTest, a
+   systematic testing tool for automatically detecting erroneous behaviors of DNN-driven vehicles that can potentially lead to fatal
+   crashes. 
+@inproceedings{tian2018deeptest,
+  title={Deeptest: Automated testing of deep-neural-network-driven autonomous cars},
+  author={Tian, Yuchi and Pei, Kexin and Jana, Suman and Ray, Baishakhi},
+  booktitle={Proceedings of the 40th international conference on software engineering},
+  pages={303--314},
+  year={2018}
+}
 
 
 
 DeepXplore: Automated Whitebox Testing of Deep Learning Systems
-Kexin et al 2017
-
+Pei et al 2017
 
 white box testing
 
@@ -82,6 +91,9 @@ Moustapha et al. 2017
   journal={arXiv preprint arXiv:1707.05373},
   year={2017}
 }
+
+
+
 
 DeepConcolic: Testing and Debugging Deep Neural Networks
 Youcheng et al 2019
