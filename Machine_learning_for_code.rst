@@ -45,6 +45,7 @@ https://github.com/microsoft/CodeBERT
 https://ml4code.github.io/publications/li2020dlfix/
 too big
 
-https://ml4code.github.io/publications/leclair2020improved/
+https://ml4code.github.io/publications/leclair2020improved/ good https://github.com/acleclair/ICPC2020_GNN
 
 https://ml4code.github.io/publications/xu2020incorporating/
+irrelevent
